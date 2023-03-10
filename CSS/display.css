@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+li {
+    display: inline;
+    margin-right: 10px;
+}
+li.comming-soon {
+    visibility: hidden;
+
+}

@@ -1,0 +1,25 @@
+h2,p{
+    width:400px;
+    font: size 90%;
+    line-height: 1.2em;
+    border-width: 2px solid #000000cc;
+}
+h2{
+    color: #0088dd;
+    /* border-bottom: 1px solid #0088dd; */
+}
+/* p{
+    min-height:10px;
+    max-height: 30px;} */
+p.one{
+    overflow:hidden;
+    margin-bottom: 2px;
+    padding: 2px;
+    border-width: 2px solid #000000cc; 
+}
+p.two{
+    overflow:scroll; 
+    margin-bottom: 2px;
+    padding: 2px;
+    border-width: 2px solid #000000cc;
+}

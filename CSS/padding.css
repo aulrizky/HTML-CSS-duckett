@@ -1,0 +1,7 @@
+p{
+    width: 257px;
+    border:2px solid #0088dd;
+}
+p.intro {
+    padding: 10px;
+}
